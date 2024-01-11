@@ -1,0 +1,1 @@
+void excluirContato(Contato** listaContatos);
